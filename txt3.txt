@@ -1,1 +1,1 @@
-this is maddy txt3.txt file
+print ("Maddy_stories")
